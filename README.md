@@ -1,7 +1,7 @@
 # Hidden-Vault-Calculator
 A functional calculator with a hidden twist — enter a secret code, and it unlocks a secure vault to store your private notes, passwords, and secrets. Designed for privacy enthusiasts and cybersecurity learners.
 
-##1. Features
+## Features
 •Fully functional basic calculator (supports +, –, *, /)
 
 •Hidden vault unlocks when a secret code (default: 9999) is entered
@@ -20,7 +20,7 @@ A functional calculator with a hidden twist — enter a secret code, and it unlo
 
 •Encrypted using Python’s cryptography.fernet (AES-based)
 
-##2. Tech Stack
+## Tech Stack
 •Python
 
 •Kivy (cross-platform GUI framework)
